@@ -1,0 +1,11 @@
+.ColorList{
+    margin: 2rem 0;
+}
+
+.ColorForm-link{
+    font-size: 1.5rem;
+    background-color: aliceblue;
+    display: block;
+    width: 100vw;
+    margin-bottom: 1rem;;
+}

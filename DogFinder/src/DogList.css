@@ -1,0 +1,22 @@
+.DogList{
+    display: flex;
+    box-sizing: border-box;
+    margin: 1.5rem;
+}
+
+.DogList-dog{
+    margin: 0 1.5rem;
+}
+
+.DogList-imgs{
+    width: 100%;
+}
+
+.DogList-links{
+    color: #444444;
+    text-decoration: none;
+}
+
+.DogList-links:hover{
+    color: salmon;
+}

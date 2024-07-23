@@ -1,0 +1,33 @@
+.Color{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Color-text{
+    font-size: 4rem;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+
+.return-link{
+    font-size: 1.5rem;
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.return-link:hover{
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
